@@ -14,6 +14,11 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/devshimitsu
+  - display:
+      header: false
+    icon_pack: fab
+    icon: github
+    link: https://github.com/Devshimitsu
 organizations: []
 email: bishtkartik.ccs@gmail.com
 superuser: true
