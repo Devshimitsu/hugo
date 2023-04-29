@@ -1,7 +1,7 @@
 ---
 title: Kartik Bisht
 role: Welcome to my website! I hope you enjoy your stay here ٩(ˊᗜˋ*)و
-avatar_filename: https://devshimitsu.github.io/assets/img/avatar_100.gif
+avatar_filename: https://en.gravatar.com/userimage/233568922/e3e780146d9e0d62e4c7d4dcc8673be5.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
