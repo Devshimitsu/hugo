@@ -1,6 +1,6 @@
 ---
 title: Kartik Bisht
-role: 数据科学家
+role: Welcome to my website! I hope you enjoy your stay here ٩(ˊᗜˋ*)و
 avatar_filename: https://devshimitsu.github.io/assets/img/avatar_100.gif
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
