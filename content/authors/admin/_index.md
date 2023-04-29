@@ -10,13 +10,12 @@ social:
     link: about/#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://twitter.com/devshimitsu
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
-organizations:
-  - name: 腾讯
-    url: ""
+    link: https://instagram.com/devshimitsu
+organizations: []
+email: bishtkartik.ccs@gmail.com
 superuser: true
 status:
   icon: ☕️
