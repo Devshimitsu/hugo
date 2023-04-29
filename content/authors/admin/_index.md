@@ -8,6 +8,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: about/#contact
+  - display:
+      header: false
+    icon_pack: fab
+    icon: github
+    link: https://github.com/Devshimitsu
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/devshimitsu
@@ -16,9 +21,9 @@ social:
     link: https://instagram.com/devshimitsu
   - display:
       header: false
+    link: https://www.reddit.com/user/devshimitsu
     icon_pack: fab
-    icon: github
-    link: https://github.com/Devshimitsu
+    icon: reddit
 organizations: []
 email: bishtkartik.ccs@gmail.com
 superuser: true
