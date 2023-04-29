@@ -1,7 +1,7 @@
 ---
 title: Kartik Bisht
 role: Welcome to my website! I hope you enjoy your stay here ٩(ˊᗜˋ*)و
-avatar_filename: icon.png
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
