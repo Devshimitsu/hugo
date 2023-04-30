@@ -6,7 +6,7 @@ bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
   - icon: messages
-    icon_pack: fas
+    icon_pack: far
     link: about/#contact
   - display:
       header: false
