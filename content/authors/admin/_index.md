@@ -5,8 +5,8 @@ avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
-  - icon: wpforms
-    icon_pack: fab
+  - icon: messages
+    icon_pack: far
     link: about/#contact
   - display:
       header: false
